@@ -10,11 +10,11 @@ A script written to automatically send whatsapp messages
     "type": 1
 }
 
-:numbers : telefon numaralarının bulunduğu dosya adı
+:numbers : telefon numaralarının bulunduğu dosya adı<br>
 :sleep   : atılan her mesajdan sonra beklenecek süre
-:image   : atılacak resmin yolu/ismi (sadece 1 numaralı işlemde kullanılır)
+:image   : atılacak resmin yolu/ismi (sadece 1 numaralı işlemde kullanılır)<br>
 :message : gönderilecek mesaj 
-:type    : 0 <- sadece text gönder | 1 <- hem text hem de mesaj gönder
+:type    : 0 <- sadece text gönder | 1 <- hem text hem de mesaj gönder <br>
 
 
 # Önemli
