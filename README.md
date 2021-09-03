@@ -11,9 +11,9 @@ A script written to automatically send whatsapp messages
 }
 
 :numbers : telefon numaralarının bulunduğu dosya adı<br>
-:sleep   : atılan her mesajdan sonra beklenecek süre
+:sleep   : atılan her mesajdan sonra beklenecek süre<br>
 :image   : atılacak resmin yolu/ismi (sadece 1 numaralı işlemde kullanılır)<br>
-:message : gönderilecek mesaj 
+:message : gönderilecek mesaj <br>
 :type    : 0 <- sadece text gönder | 1 <- hem text hem de mesaj gönder <br>
 
 
